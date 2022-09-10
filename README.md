@@ -1,5 +1,9 @@
 # monkey-pox-analysis
-Kaggle dataset of monkeypox cases worldwide
+### Analysis is being done on a Kaggle dataset of monkeypox cases worldwide:
+https://www.kaggle.com/datasets/deepcontractor/monkeypox-dataset-daily-updated/code
 
-# Test
-# Test 2
+**The current goals of this analysis are:**
+- Country and city with the most
+  - Confirmed cases
+  - Suspected cases
+  - Hospitalized cases
